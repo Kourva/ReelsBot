@@ -33,11 +33,30 @@ pip install -r requirements.txt
 python bot.py
 ```
 
+<br>
+
 # Docker installation
-You can also install and run your file with docker
-+ Install docker
+You can also install and run your file with docker. <br>
 If you don't have Docker installed, you can download and install it from the official Docker website: [Docker Installation Guide](https://docs.docker.com/get-docker/)
-+ Build the Docker Image (Navigate to `ReelsBot` First)
++ Clone the repository
+```bash
+git clone https://github.com/Kourva/ReelsBot
+```
++ Navigate to files directory
+```bash
+cd ReelsBot
+``` 
++ Build the Docker Image
 ```bash
 docker build -t your-bot-name .
 ```
++ Run your Docker Image
+```bash
+docker run your-bot-name
+```
+> Note: replace `your-bot-name` with your suitable name for your bot
+
+<br>
+
+# Usage
+For the usage just send reel URL copied from instagram to bot. Note that some rells can't be downloaded.
