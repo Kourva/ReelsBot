@@ -32,6 +32,11 @@ pip install -r requirements.txt
 ```bash
 python bot.py
 ```
+#### One line command
+```bash
+git clone https://github.com/Kourva/ReelsBot && cd ReelsBot && chmod +x bot.py && pip install -r requirements.txt
+```
+> You still need to configure your **token**
 
 <br>
 
