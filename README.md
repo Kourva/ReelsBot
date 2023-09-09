@@ -32,3 +32,12 @@ pip install -r requirements.txt
 ```bash
 python bot.py
 ```
+
+# Docker installation
+You can also install and run your file with docker
++ Install docker
+If you don't have Docker installed, you can download and install it from the official Docker website: [Docker Installation Guide](https://docs.docker.com/get-docker/)
++ Build the Docker Image (Navigate to `ReelsBot` First)
+```bash
+docker build -t your-bot-name .
+```
