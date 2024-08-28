@@ -8,7 +8,7 @@
 # Installation
 + Clone the repository
 ```bash
-git clone https://github.com/kozyol/ReelsBot
+git clone https://github.com/Kourva/ReelsBot
 ```
 + Navigate to files directory
 ```bash
@@ -34,7 +34,7 @@ python bot.py
 ```
 #### One line command
 ```bash
-git clone https://github.com/kozyol/ReelsBot && cd ReelsBot && chmod +x bot.py && pip install -r requirements.txt
+git clone https://github.com/Kourva/ReelsBot && cd ReelsBot && chmod +x bot.py && pip install -r requirements.txt
 ```
 > You still need to configure your **token**
 
@@ -45,7 +45,7 @@ You can also install and run your file with docker. <br>
 If you don't have Docker installed, you can download and install it from the official Docker website: [Docker Installation Guide](https://docs.docker.com/get-docker/)
 + Clone the repository
 ```bash
-git clone https://github.com/kozyol/ReelsBot
+git clone https://github.com/Kourva/ReelsBot
 ```
 + Navigate to files directory
 ```bash
